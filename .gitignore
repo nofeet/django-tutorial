@@ -1,0 +1,9 @@
+# Eclipse
+.project
+.pydevproject
+
+# Databases
+sqlite.db
+
+# Python
+*.pyc
